@@ -8,8 +8,8 @@
     "next": "^9.0.5",
     "next-routes": "^1.4.2",
     "polished": "^3.4.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "styled-components": "^4.3.2"
   },
   "scripts": {
